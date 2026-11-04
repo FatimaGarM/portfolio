@@ -2,9 +2,9 @@
   "site": {
     "name": "Fátima García Muriana",
     "role": "Desarrolladora web junior · Frontend y full stack",
-    "availability": "Disponible en remoto o híbrido en Sevilla",
+    "availability": "Disponible en remoto o en Sevilla y alrededores",
     "introduction": "Me gusta construir webs completas, desde la base de datos hasta el último detalle de la interfaz. Trabajo con React, Next.js y TypeScript en el frontend, y con Java, Spring Boot y MySQL en el backend.\n\nHice prácticas en la Universidad Pablo de Olavide, donde optimicé consultas MySQL, desarrollé funcionalidades en PHP y participé en la migración de Bootstrap 3 a Bootstrap 5. Mi proyecto actual es LOWME, mi tienda online: ya está publicada y sigo mejorándola.",
-    "location": "España · en remoto",
+    "location": "Sevilla · en remoto o presencial",
     "email": "fatimagarciamuriana95@gmail.com",
     "github": "https://github.com/FatimaGarM",
     "linkedin": "https://www.linkedin.com/in/fatimagarciamuriana/",
@@ -18,7 +18,7 @@
       "MySQL"
     ],
     "seoTitle": "Fátima García Muriana · Desarrolladora web junior",
-    "seoDescription": "Portfolio de Fátima García Muriana, desarrolladora web junior. React, Next.js, TypeScript, Java y Spring Boot. Disponible para trabajo en remoto.",
+    "seoDescription": "Portfolio de Fátima García Muriana, desarrolladora web junior. React, Next.js, TypeScript, Java y Spring Boot. Disponible en remoto o en Sevilla y alrededores.",
     "ogImage": "",
     "illustration": "/ilustraciones/avatar.webp"
   },
@@ -235,6 +235,6 @@
   ],
   "contact": {
     "title": "¿Hablamos?",
-    "description": "Busco oportunidades como desarrolladora frontend o full stack junior, en remoto. Si crees que puedo aportar a tu equipo, me encantará hablar contigo."
+    "description": "Busco oportunidades como desarrolladora frontend o full stack junior, en remoto o en Sevilla y alrededores. Si crees que puedo aportar a tu equipo, me encantará hablar contigo."
   }
 }
