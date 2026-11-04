@@ -1,6 +1,7 @@
 import type { PortfolioContent } from "@/lib/schema";
 import { GoldRule, Reveal } from "@/components/motion";
-import { DownloadIcon, GitHubIcon, LinkedInIcon, MailIcon } from "@/components/icons";
+import { DownloadIcon, GitHubIcon, LinkedInIcon } from "@/components/icons";
+import CopyEmail from "@/components/CopyEmail";
 
 type Props = {
   contact: PortfolioContent["contact"];
@@ -22,10 +23,7 @@ export default function Contact({ contact, site }: Props) {
           </Reveal>
 
           <Reveal index={1}>
-            <a href={`mailto:${site.email}`} className="contacto-email">
-              <MailIcon size={22} className="contacto-email-icono" />
-              {site.email}
-            </a>
+            <CopyEmail email={site.email} />
           </Reveal>
 
           <Reveal index={2} className="contacto-redes">
