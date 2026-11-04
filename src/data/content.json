@@ -1,0 +1,240 @@
+{
+  "site": {
+    "name": "Fátima García Muriana",
+    "role": "Desarrolladora web junior · Frontend y full stack",
+    "availability": "Disponible en remoto o híbrido en Sevilla",
+    "introduction": "Me gusta construir webs completas, desde la base de datos hasta el último detalle de la interfaz. Trabajo con React, Next.js y TypeScript en el frontend, y con Java, Spring Boot y MySQL en el backend.\n\nHice prácticas en la Universidad Pablo de Olavide, donde optimicé consultas MySQL, desarrollé funcionalidades en PHP y participé en la migración de Bootstrap 3 a Bootstrap 5. Mi proyecto actual es LOWME, mi tienda online: ya está publicada y sigo mejorándola.",
+    "location": "España · en remoto",
+    "email": "fatimagarciamuriana95@gmail.com",
+    "github": "https://github.com/FatimaGarM",
+    "linkedin": "https://www.linkedin.com/in/fatimagarciamuriana/",
+    "cvUrl": "/CV_Fatima_Garcia_Muriana.pdf",
+    "heroTags": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Java",
+      "Spring Boot",
+      "MySQL"
+    ],
+    "seoTitle": "Fátima García Muriana · Desarrolladora web junior",
+    "seoDescription": "Portfolio de Fátima García Muriana, desarrolladora web junior. React, Next.js, TypeScript, Java y Spring Boot. Disponible para trabajo en remoto.",
+    "ogImage": "",
+    "illustration": "/ilustraciones/avatar.webp"
+  },
+  "sections": {
+    "projects": {
+      "eyebrow": "Proyectos",
+      "title": "Lo que he construido",
+      "intro": "Un proyecto en equipo con Java y React, una herramienta publicada y mi propia tienda online."
+    },
+    "experience": {
+      "eyebrow": "Experiencia",
+      "title": "Trayectoria",
+      "intro": ""
+    },
+    "education": {
+      "eyebrow": "Formación",
+      "title": "Formación académica",
+      "intro": ""
+    },
+    "skills": {
+      "eyebrow": "Tecnologías",
+      "title": "Stack tecnológico",
+      "intro": "Tecnologías, herramientas y metodologías que he usado en proyectos, formación y prácticas."
+    }
+  },
+  "projects": [
+    {
+      "id": "plataforma-gestion-restaurantes",
+      "name": "Plataforma de gestión para restaurantes",
+      "description": "Carta digital con código QR para pedir desde la mesa sin registrarse, y paneles para camareros, cocina y gerencia: pedidos en tiempo real, cobros y división de cuentas, empleados, proveedores y estadísticas.",
+      "image": "/projects/restaurante.webp",
+      "multimedia": "",
+      "url": "https://github.com/FatimaGarM/plataforma-gestion-restaurantes",
+      "repo": "",
+      "year": "2026",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "React",
+        "Tailwind CSS",
+        "MySQL"
+      ],
+      "collaborators": [
+        "Luis Martín Benítez"
+      ],
+      "badge": "Proyecto final DAW",
+      "problem": "Coordinar sala, cocina y caja sin papel y sin esperas para pedir o para pagar.",
+      "solution": "Una API REST con seguridad por roles y una aplicación React con una pantalla para cada perfil.",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "lowme",
+      "name": "LOWME",
+      "description": "Mi tienda online de decoración zen: láminas de diseño propio impresas bajo pedido. Pagos con Stripe, envío automático de pedidos a Printify, panel de gestión con márgenes reales y blog. Está publicada en modo «próximamente».",
+      "image": "/projects/lowme.webp",
+      "multimedia": "",
+      "url": "https://lowme.es",
+      "repo": "",
+      "year": "2026",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Supabase",
+        "Stripe",
+        "Printify",
+        "Netlify"
+      ],
+      "collaborators": [],
+      "badge": "Proyecto propio",
+      "problem": "",
+      "solution": "",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "github-repo-insights",
+      "name": "GitHub Repo Insights",
+      "description": "Analiza cualquier repositorio público de GitHub: actividad de commits, colaboradores, lenguajes y una nota de salud propia, con gráficas interactivas en español e inglés.",
+      "image": "/projects/github-insights.webp",
+      "multimedia": "",
+      "url": "https://github-repo-insights.vercel.app",
+      "repo": "https://github.com/FatimaGarM/github-repo-insights",
+      "year": "2026",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Recharts",
+        "GitHub API"
+      ],
+      "collaborators": [],
+      "badge": "Publicado en Vercel",
+      "problem": "",
+      "solution": "",
+      "featured": false,
+      "published": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "upo",
+      "period": "Feb 2025 – May 2025",
+      "title": "Desarrolladora web en prácticas",
+      "place": "Universidad Pablo de Olavide · Biblioteca CRAI, Sevilla",
+      "description": "Optimización de scripts SQL en bases de datos MySQL mediante revisión y mejora de consultas, procedimientos almacenados y triggers. Desarrollo y mantenimiento de funcionalidades en PHP, resolución de incidencias y participación en una migración completa de Bootstrap 3 a Bootstrap 5.",
+      "badge": "",
+      "tags": [
+        "MySQL",
+        "PHP",
+        "Bootstrap 5"
+      ],
+      "published": true
+    },
+    {
+      "id": "berger",
+      "period": "Feb 2025",
+      "title": "Desarrolladora web en prácticas (DAW dual)",
+      "place": "Aytos · Berger-Levrault",
+      "description": "Participación en el desarrollo de aplicaciones web dentro de un entorno profesional. Implementación de funcionalidades, colaboración en equipo y aplicación de metodologías ágiles como Scrum y Kanban.",
+      "badge": "",
+      "tags": [
+        "Scrum",
+        "Kanban"
+      ],
+      "published": true
+    }
+  ],
+  "education": [
+    {
+      "id": "daw",
+      "period": "2024 – 2026",
+      "title": "CFGS Desarrollo de Aplicaciones Web (DAW)",
+      "place": "IES Luis Vélez de Guevara · Écija",
+      "description": "Formación especializada en desarrollo de aplicaciones web, bases de datos, programación orientada a objetos, backend con Java y Spring Boot, desarrollo frontend, despliegue de aplicaciones y trabajo en equipo.",
+      "badge": "",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "PHP",
+        "MySQL",
+        "Angular",
+        "Bootstrap",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "published": true
+    },
+    {
+      "id": "complementaria",
+      "period": "Continua",
+      "title": "Formación complementaria",
+      "place": "OpenWebinars y aprendizaje por mi cuenta",
+      "description": "He completado la formación del ciclo con cursos de OpenWebinars y aprendizaje autodidacta en React, Next.js, TypeScript, Docker y herramientas modernas de desarrollo web, que aplico en proyectos personales y académicos.",
+      "badge": "",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Docker"
+      ],
+      "published": true
+    }
+  ],
+  "skillGroups": [
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "HTML5 / CSS3"
+      ]
+    },
+    {
+      "id": "backend",
+      "label": "Backend",
+      "skills": [
+        "Spring Boot",
+        "Java",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "herramientas",
+      "label": "Herramientas",
+      "skills": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Figma"
+      ]
+    },
+    {
+      "id": "metodologias",
+      "label": "Metodologías",
+      "skills": [
+        "Scrum",
+        "Kanban",
+        "Documentación técnica"
+      ]
+    },
+    {
+      "id": "explorando",
+      "label": "Ahora explorando",
+      "skills": [
+        "Angular"
+      ]
+    }
+  ],
+  "contact": {
+    "title": "¿Hablamos?",
+    "description": "Busco oportunidades como desarrolladora frontend o full stack junior, en remoto. Si crees que puedo aportar a tu equipo, me encantará hablar contigo."
+  }
+}
